@@ -51,12 +51,12 @@ Este sistema auxilia na análise de casos criminais, sugerindo suspeitos ou teor
 
 Este trabalho visa consolidar o conhecimento prático da programação lógica. O projeto é dividido em cinco módulos, cada um abordando um sistema especialista que faz deduções ou recomendações baseadas em regras e fatos. Abaixo estão os módulos desenvolvidos:
 
-### Módulo 1: **Diagnóstico Médico**
-### Módulo 2: **Análise de Problemas de Veículos**
-### Módulo 3: **Recomendações de Livros**
-### Módulo 4: **Recomendação de Treinos de Academia**
-### Módulo 5: **Análise de Investigação Criminal**
+ - Módulo 1: Diagnóstico Médico
+ - Módulo 2: Análise de Problemas de Veículos
+ - Módulo 3: Recomendações de Livros
+ - Módulo 4: Recomendação de Treinos de Academia
+ - Módulo 5: Análise de Investigação Criminal
 
 
-## Este trabalho foi desenvolvido por Aline Fernanda Hoffmann como parte da disciplina de Linguagens de Programação e Paradigmas.
+*Este trabalho foi desenvolvido por Aline Fernanda Hoffmann como parte da disciplina de Linguagens de Programação e Paradigmas.*
 
